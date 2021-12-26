@@ -6,16 +6,15 @@ function loadJSON($scope) {
     $scope.cv =
         {
             "profile": {
-                "name": "Xavi Valdés",
-                "title": "Software Engineer",
+                "name": "Genís Valdés",
+                "title": "Delphi Software Developer",
                 "linkedIn": "www.linkedin.com/pub/xavi-vald%C3%A9s-llonch/14/bbb/168",
                 "placeOfResidence": "Santa Perpètua de Mogoda, Barcelona, Spain",
-                "email": "xavivaldes@gmail.com",
-                "web": "www.xavivaldes.com",
-                "nationality": "Spanish",
-                "dateOfBirth": "12 January 1985",
-                "others": "Driving licence and own transport",
-                "introduction": "Hello world! My name is Xavi Valdés. I'm Software Engineer specialized in Scraping and API integration technologies. I was working in OTA industry until 2019, when I leave my Lead Engineer job to start a personal project: travel around the world. Since then I'm freelancer and traveller. I love software and electronics, so I work as freelancer Software Engineer and I invest a lot of time improving the electronic system on my van.",
+                "email": "genvaldesmo@gmail.com",
+                "web": "http://genisvaldes.github.io",
+                "nationality": "Español",
+                "dateOfBirth": "05 Noviembre 1956",
+                "introduction": "Hola!", //"Hello world! My name is Xavi Valdés. I'm Software Engineer specialized in Scraping and API integration technologies. I was working in OTA industry until 2019, when I leave my Lead Engineer job to start a personal project: travel around the world. Since then I'm freelancer and traveller. I love software and electronics, so I work as freelancer Software Engineer and I invest a lot of time improving the electronic system on my van.",
                 "image": "img/xavi_pamukkale.jpg"
             },
             "educations": [
